@@ -1,0 +1,71 @@
+ponger: send ping to c
+printer: waiting c
+printer: c received
+pong
+DONE
+ponger: send ping to c
+printer: waiting c
+printer: c received
+ping
+DONE
+pinger: send ping to c
+printer: waiting c
+printer: c received
+pong
+DONE
+ponger: send ping to c
+printer: waiting c
+printer: c received
+ping
+DONE
+pinger: send ping to c
+printer: waiting c
+printer: c received
+pong
+DONE
+ponger: send ping to c
+printer: waiting c
+printer: c received
+ping
+DONE
+pinger: send ping to c
+printer: waiting c
+printer: c received
+pong
+DONE
+ponger: send ping to c
+printer: waiting c
+printer: c received
+ping
+DONE
+pinger: send ping to c
+printer: waiting c
+printer: c received
+pong
+DONE
+ponger: send ping to c
+printer: waiting c
+printer: c received
+ping
+DONE
+pinger: send ping to c
+printer: waiting c
+printer: c received
+pong
+DONE
+ponger: send ping to c
+printer: waiting c
+printer: c received
+ping
+DONE
+pinger: send ping to c
+printer: waiting c
+printer: c received
+pong
+DONE
+ponger: send ping to c
+printer: waiting c
+printer: c received
+ping
+DONE
+pinger: send ping to c
